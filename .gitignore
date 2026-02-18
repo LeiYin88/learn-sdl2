@@ -1,0 +1,3 @@
+build/*
+!build/hello.bmp
+!build/SDL2.dll
