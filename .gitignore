@@ -1,5 +1,5 @@
 build/*
-test-make/*
+test-make/
 
 !build/hello.bmp
 !build/SDL2.dll
